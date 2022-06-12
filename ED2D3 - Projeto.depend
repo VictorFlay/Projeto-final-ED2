@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1609432719 source:c:\users\estevão luiz\onedrive\tads\semestre_3\estrutura de dados ii - ed2d3\ed2d3 - atividades\ed2d3 - projeto\arvoreavl.c
+	<stdio.h>
+	<stdlib.h>
+	"TreeProjFunctions.h"
+
+1609382000 c:\users\estevão luiz\onedrive\tads\semestre_3\estrutura de dados ii - ed2d3\ed2d3 - atividades\ed2d3 - projeto\arvoreavl.h
+
+1609437297 source:c:\users\estevão luiz\onedrive\tads\semestre_3\estrutura de dados ii - ed2d3\ed2d3 - atividades\ed2d3 - projeto\arvorellrb.c
+	<stdio.h>
+	<stdlib.h>
+	"TreeProjFunctions.h"
+
+1607986077 c:\users\estevão luiz\onedrive\tads\semestre_3\estrutura de dados ii - ed2d3\ed2d3 - atividades\ed2d3 - projeto\arvorellrb.h
+
+1612397635 source:c:\users\estevão luiz\onedrive\tads\semestre_3\estrutura de dados ii - ed2d3\ed2d3 - atividades\ed2d3 - projeto\main.c
+	"TreeProjFunctions.h"
+
+1609773322 c:\users\estevão luiz\onedrive\tads\semestre_3\estrutura de dados ii - ed2d3\ed2d3 - atividades\ed2d3 - projeto\treeprojfunctions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/time.h>
+
+1609380451 c:\users\estevão luiz\onedrive\tads\semestre_3\estrutura de dados ii - ed2d3\ed2d3 - atividades\ed2d3 - projeto\structdados.h
+
+1612397130 source:c:\users\estevão luiz\onedrive\tads\semestre_3\estrutura de dados ii - ed2d3\ed2d3 - atividades\ed2d3 - projeto\treeprojfunctions.c
+	"TreeProjFunctions.h"
+
+1609432719 source:c:\users\estevão luiz\onedrive\tads\semestre_3\estrutura de dados ii - ed2d3\ed2d3 - atividades\nova pasta\ed2d3 - projeto\arvoreavl.c
+	<stdio.h>
+	<stdlib.h>
+	"TreeProjFunctions.h"
+
+1609773322 c:\users\estevão luiz\onedrive\tads\semestre_3\estrutura de dados ii - ed2d3\ed2d3 - atividades\nova pasta\ed2d3 - projeto\treeprojfunctions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/time.h>
+
+1609437297 source:c:\users\estevão luiz\onedrive\tads\semestre_3\estrutura de dados ii - ed2d3\ed2d3 - atividades\nova pasta\ed2d3 - projeto\arvorellrb.c
+	<stdio.h>
+	<stdlib.h>
+	"TreeProjFunctions.h"
+
+1612398529 source:c:\users\estevão luiz\onedrive\tads\semestre_3\estrutura de dados ii - ed2d3\ed2d3 - atividades\nova pasta\ed2d3 - projeto\main.c
+	"TreeProjFunctions.h"
+
+1612398562 source:c:\users\estevão luiz\onedrive\tads\semestre_3\estrutura de dados ii - ed2d3\ed2d3 - atividades\nova pasta\ed2d3 - projeto\treeprojfunctions.c
+	"TreeProjFunctions.h"
+
+1609432719 source:c:\users\estevão luiz\onedrive\tads\semestre_3\estrutura de dados ii - ed2d3\ed2d3 - atividades\ed2d3 - projeto\documentos para entrega\ed2d3 - projeto\arvoreavl.c
+	<stdio.h>
+	<stdlib.h>
+	"TreeProjFunctions.h"
+
+1609773322 c:\users\estevão luiz\onedrive\tads\semestre_3\estrutura de dados ii - ed2d3\ed2d3 - atividades\ed2d3 - projeto\documentos para entrega\ed2d3 - projeto\treeprojfunctions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/time.h>
+
+1609437297 source:c:\users\estevão luiz\onedrive\tads\semestre_3\estrutura de dados ii - ed2d3\ed2d3 - atividades\ed2d3 - projeto\documentos para entrega\ed2d3 - projeto\arvorellrb.c
+	<stdio.h>
+	<stdlib.h>
+	"TreeProjFunctions.h"
+
+1612398529 source:c:\users\estevão luiz\onedrive\tads\semestre_3\estrutura de dados ii - ed2d3\ed2d3 - atividades\ed2d3 - projeto\documentos para entrega\ed2d3 - projeto\main.c
+	"TreeProjFunctions.h"
+
+1612398562 source:c:\users\estevão luiz\onedrive\tads\semestre_3\estrutura de dados ii - ed2d3\ed2d3 - atividades\ed2d3 - projeto\documentos para entrega\ed2d3 - projeto\treeprojfunctions.c
+	"TreeProjFunctions.h"
+
